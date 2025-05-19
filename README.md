@@ -67,13 +67,13 @@ Metrics calculated:
 ## 📸 Dashboard Previews
 
 ### Equal Weights Portfolio
-![Equal Weights Dashboard](C:\Users\DELL\OneDrive\Pictures\Screenshots)
+![Equal Weights Dashboard](Equal-Weights.png)
 
 ### Optimized Portfolio
-![Optimized Portfolio Dashboard](C:\Users\DELL\OneDrive\Pictures\Screenshots)
+![Optimized Portfolio Dashboard](Optimized-Portfolio.png)
 
 ### Efficient Frontier
-![Efficient Frontier](C:\Users\DELL\OneDrive\Pictures\Screenshots)
+![Efficient Frontier](Efficient-Frontier.png)
 
 ---
 
