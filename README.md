@@ -67,13 +67,13 @@ Metrics calculated:
 ## 📸 Dashboard Previews
 
 ### Equal Weights Portfolio
-![Equal Weights Dashboard](Equal-Weights.png)
+![Equal Weights Dashboard](equalweights.png)
 
 ### Optimized Portfolio
-![Optimized Portfolio Dashboard](Optimized-Portfolio.png)
+![Optimized Portfolio Dashboard](optimizedportfolio.png)
 
 ### Efficient Frontier
-![Efficient Frontier](Efficient-Frontier.png)
+![Efficient Frontier](efficientfrontier.png)
 
 ---
 
